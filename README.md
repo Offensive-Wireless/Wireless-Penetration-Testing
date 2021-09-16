@@ -7,6 +7,7 @@
 
 ## Hacking Devices
 - [DStrike]()
+- [Wi-Fi Pineapple]()
 
 ## Tools Tutorials
 
@@ -26,9 +27,9 @@
 - [How to Crack WPA Handshake with Different Tools](https://www.offensive-wireless.com/how-to-crack-wpa-handshake-password/)
 
 ## WPS Attacks
-- Breaking WPS with Reaver
+- [Breaking WPS with Reaver](https://www.offensive-wireless.com/hands-on-how-to-crack-wps-with-reaver/)
 
 ## DOS WIfi Network
 
-- How to DDOS a Wifi Network using MDK3
-- 
+- [How to DDOS a Wifi Network using MDK3](https://www.offensive-wireless.com/how-to-ddos-a-wifi-network-using-mdk3/)
+- []()
