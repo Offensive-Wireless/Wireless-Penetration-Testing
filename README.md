@@ -3,8 +3,9 @@
 
 
 ## Intro Guides
+- [Breakthrough Wireless Penetration Testing: Theory for Pentesters](https://www.offensive-wireless.com/wireless-penetration-testing-theory/)
 - [Interface monitor mode: Airmon-ng](https://www.offensive-wireless.com/interface-monitor-mode-airmon-ng/)
-
+- [IEEE 802.11 Acronyms](https://www.offensive-wireless.com/ieee-802-11-acronyms/)
 
 ## Hacking Devices
 - [DStrike]()
@@ -32,4 +33,4 @@
 ## DOS WIfi Network
 
 - [How to DDOS a Wifi Network using MDK3](https://www.offensive-wireless.com/how-to-ddos-a-wifi-network-using-mdk3/)
-- []()
+
