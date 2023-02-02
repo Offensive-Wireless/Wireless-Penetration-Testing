@@ -1,4 +1,4 @@
-# Wireless Penetration Testing
+# WiFi Penetration Testing
 ![Wireless Penetration Testing](https://www.offensive-wireless.com/wp-content/uploads/2021/09/Wireless-Attacks.png)
 
 
