@@ -1,5 +1,8 @@
 ---
-description: Learn Wireless Penetration Testing and secure your network.
+description: >-
+  Boost your network's security with our services in Wireless Penetration
+  Testing. We offer comprehensive vulnerability assessments, identifying
+  potential threats and providing effective solutions...
 cover: .gitbook/assets/Wireless Penetration Testing.jpg
 coverY: 0
 layout:
