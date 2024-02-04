@@ -1,10 +1,9 @@
 # Table of contents
 
-* [Wireless Penetration Test](README.md)
+* [Wi-Fi Hacking](README.md)
 
 ## Offensive Wireless
 
-* [Project](offensive-wireless/project.md)
 * [WebSite](https://www.offensive-wireless.com/)
 * [Discord](https://discord.gg/sEXM6W95gV)
 
@@ -45,7 +44,7 @@
 * [WPS Versions](attacking-wps/wps-versions.md)
 * [Pixie Dust](attacking-wps/pixie-dust.md)
 * [Pin Brute Force](attacking-wps/pin-brute-force.md)
-* [Null Pin](attacking-wps/null-pin.md)
+* [WPS Null Pin](attacking-wps/wps-null-pin.md)
 
 ## Cracking
 
